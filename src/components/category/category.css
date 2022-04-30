@@ -1,0 +1,23 @@
+
+.container{
+    min-height: 100vh;
+    height: auto;
+}
+.card-title {
+    height:65px;
+    object-fit:cover;
+    text-align: center;
+}
+.card img{
+    height: 200px;
+    object-fit: cover;
+   
+
+}
+@media screen and(max-width:575px) {
+    .card img{
+      object-fit: contain;
+    }
+    
+  }
+

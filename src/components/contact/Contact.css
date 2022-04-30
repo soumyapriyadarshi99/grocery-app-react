@@ -1,0 +1,27 @@
+.form-container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.contact-for-wrapper {
+  border-radius: 10px;
+  padding: 20px;
+}
+
+
+@media screen and (min-width:764px) {
+  .form-container {
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .contactus-description {
+    width: 50%;
+  }
+
+  .contact-form {
+    width: 50%;
+  }
+
+}

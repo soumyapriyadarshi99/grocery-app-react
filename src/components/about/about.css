@@ -1,0 +1,14 @@
+.card .mb-3 .about {
+  max-width: 540px;
+}
+
+.col-md-4 img {
+width: 100%;
+height: 100%;
+padding: 20px;
+}
+.aboutus-image img{
+  max-height: 350px;
+  max-width: 350px;
+  object-fit: cover;
+}

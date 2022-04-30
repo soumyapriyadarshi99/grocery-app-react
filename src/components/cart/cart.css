@@ -1,0 +1,16 @@
+.cart-price{
+    margin-left: 30px;
+}
+.cart-remove-btn{
+    margin-left: 20px;
+}
+.summary-item{
+    padding-bottom: 10px;
+}
+@media screen and (max-width:991px){
+    .summary-item{
+        margin-top: 10px;
+    }
+
+    
+}
