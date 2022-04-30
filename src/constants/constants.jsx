@@ -1,6 +1,6 @@
 export const Constants = {
   imageUrl: "http://rjtmobile.com/grocery/images/",
-  apiUrl: "http://apolis-grocery.herokuapp.com/api/",
+  apiUrl: "https://apolis-grocery.herokuapp.com/api/",
 
   aboutGrocery: `Spare more with ‘Organization Name’! We give you the most
     minimal costs on the entirety of your grocery needs.
